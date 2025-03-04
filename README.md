@@ -16,25 +16,25 @@
 
 1. 线性方程组的解法 - Solutions of systems of linear equations 【P1-P4】
 
-2. N阶行列式 - determinants of order N 【P5-P14】
+2. N阶行列式 - Determinants of order N 【P5-P14】
 
-3. 线性空间 - linear spaces 【P15-53】
+3. 线性空间 - Linear spaces 【P15-53】
 
-4. 矩阵的运算 - operations on matrices 【P54-P66】
+4. 矩阵的运算 - Operations on matrices 【P54-P66】
 
-5. 一元多项式环 - rings of monomial polynomials 【P67-P78】
+5. 一元多项式环 - Rings of monomial polynomials 【P67-P78】
 
 #### 《高等代数Ⅱ》- 对应【北大丘维声教授清华高等代数课程】 76-151集  包含如下内容：
 
-1. 一元多项式环 - rings of monomial polynomials 【P1-P7】
+1. 一元多项式环 - Rings of monomial polynomials 【P1-P7】
 
-2. 线性映射 - Linear mappings 【P5-P14】
+2. 线性映射 - Linear mappings 【P8-P42】
 
-3. 双线性函数 - Bilinear functions 【P15-53】
+3. 双线性函数 - Bilinear functions 【P43-48】
 
-4. 具有度量的线性空间 - Linear spaces with metrics 【P54-P66】
+4. 具有度量的线性空间 - Linear spaces with metrics 【P49-P66】
 
-5. N元多项式环,二次型 - N-membered polynomial rings, quadratic 【P67-P78】
+5. N元多项式环,二次型 - N-membered polynomial rings, quadratic 【P67-P71】
 
 ### 二、B站UP主“3Blue1Brown”中国官方账号的《Linear Algebra》系列视频教程
 
