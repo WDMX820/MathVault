@@ -6,15 +6,15 @@
 
 ### 一、B站UP主“满楼-花”修复的《北大丘维声教授-清华高等代数课程》系列视频教程
 
-### 《Peking University Professor Qiu Weisheng - Tsinghua Advanced Algebra Course》series video tutorials
+### 《Peking University Professor Qiu Weisheng - Tsinghua Advanced Algebra Course》
 
 【北大丘维声教授清华高等代数课程1080P高清修复版(全151集)】- https://www.bilibili.com/video/BV1jR4y1M78W/
 
 个人视频学习笔记 - 《丘维声-Algebra》，内容同视频学习进度一致，可作为辅助学习的手段
 
-《高等代数Ⅰ》- 对应【北大丘维声教授清华高等代数课程】 1-75集 包含如下内容：
+#### 《高等代数Ⅰ》- 对应【北大丘维声教授清华高等代数课程】 1-75集  包含如下内容：
 
-1. 线性方程组的解法 - solutions of systems of linear equations 【P1-P4】
+1. 线性方程组的解法 - Solutions of systems of linear equations 【P1-P4】
 
 2. N阶行列式 - determinants of order N 【P5-P14】
 
@@ -23,6 +23,18 @@
 4. 矩阵的运算 - operations on matrices 【P54-P66】
 
 5. 一元多项式环 - rings of monomial polynomials 【P67-P78】
+
+#### 《高等代数Ⅱ》- 对应【北大丘维声教授清华高等代数课程】 76-151集  包含如下内容：
+
+1. 一元多项式环 - rings of monomial polynomials 【P1-P7】
+
+2. 线性映射 - Linear mappings 【P5-P14】
+
+3. 双线性函数 - Bilinear functions 【P15-53】
+
+4. 具有度量的线性空间 - Linear spaces with metrics 【P54-P66】
+
+5. N元多项式环,二次型 - N-membered polynomial rings, quadratic 【P67-P78】
 
 ### 二、B站UP主“3Blue1Brown”中国官方账号的《Linear Algebra》系列视频教程
 
