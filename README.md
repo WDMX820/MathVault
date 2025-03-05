@@ -387,12 +387,12 @@ https://github.com/3b1b/manim
 
 
 
-## 微积分本质
+# 微积分本质
 
-### 一、B站UP主“3Blue1Brown”中国官方账号的《Calculus》系列视频教程
+## 一、B站UP主“3Blue1Brown”中国官方账号的《Calculus》系列视频教程
 
 【【官方双语】微积分的本质 - 01 -】- https://www.bilibili.com/video/BV1cx411m78R/
 
-## 概率论
+# 概率论
 
 持续更新中 - ing......
