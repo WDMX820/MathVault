@@ -1,18 +1,18 @@
 # MathVault
 
-## 代数基础 - Algebra Basics
+# 代数基础 - Algebra Basics
 
-### 学习推荐和内容描述 - Study recommendations and content description:：
+## 学习推荐和内容描述 - Study recommendations and content description:：
 
-### 一、B站UP主“满楼-花”修复的《北大丘维声教授-清华高等代数课程》系列视频教程
+## 一、B站UP主“满楼-花”修复的《北大丘维声教授-清华高等代数课程》系列视频教程
 
-### 《Peking University Professor Qiu Weisheng - Tsinghua Advanced Algebra Course》
+## 《Peking University Professor Qiu Weisheng - Tsinghua Advanced Algebra Course》
 
 【北大丘维声教授清华高等代数课程1080P高清修复版(全151集)】- https://www.bilibili.com/video/BV1jR4y1M78W/
 
 个人视频学习笔记 - 《丘维声-Algebra》，内容同视频学习进度一致，可作为辅助学习的手段
 
-#### 《高等代数Ⅰ》- 对应【北大丘维声教授清华高等代数课程】 1-75集  包含如下内容：
+### 《高等代数Ⅰ》- 对应【北大丘维声教授清华高等代数课程】 1-75集  包含如下内容：
 
 1. 线性方程组的解法 - Solutions of systems of linear equations 【P1-P4】
 
@@ -24,7 +24,7 @@
 
 5. 一元多项式环 - Rings of monomial polynomials 【P67-P78】
 
-#### 《高等代数Ⅱ》- 对应【北大丘维声教授清华高等代数课程】 76-151集  包含如下内容：
+### 《高等代数Ⅱ》- 对应【北大丘维声教授清华高等代数课程】 76-151集  包含如下内容：
 
 1. 一元多项式环 - Rings of monomial polynomials 【P1-P7】
 
@@ -36,11 +36,11 @@
 
 5. N元多项式环,二次型 - N-membered polynomial rings, quadratic 【P67-P71】
 
-### 二、B站UP主“3Blue1Brown”中国官方账号的《Linear Algebra》系列视频教程
+## 二、B站UP主“3Blue1Brown”中国官方账号的《Linear Algebra》系列视频教程
 
 【【官方双语/合集】线性代数的本质 - 系列合集】- https://www.bilibili.com/video/BV1ys411472E/
 
-# 3Blue1Brown 线性代数课程笔记
+## 3Blue1Brown 线性代数课程笔记
 
 ## 【00】序言：线性代数
 
@@ -55,6 +55,69 @@
 ---
 
 ## 【01】向量是什么
+
+### 1. 空间中的箭头（物理学视角）
+
+- **特征**：长度与方向  
+- **坐标系中的箭头**：以原点为起点  
+
+### 2. 有序数字列表（计算机科学视角）
+
+- **特性**：顺序不可颠倒，维度固定  
+  - 示例：`[2,3] ≠ [3,2]`  
+
+### 3. 几何与代数的统一
+
+- **向量本质**：坐标系中的特定运动（方向+距离）  
+- **向量加法**：先水平后垂直运动的合成  
+- **标量乘法**：数字在线性代数中起到的主要作用就是缩放向量（Scaling）  
+
+```python
+# 3b1b 动画引擎
+https://github.com/3b1b/manim
+```
+
+---
+
+## 【02】线性组合、张成的空间与基
+
+### 核心概念
+
+- **基向量**：`i(1,0)` 与 `j(0,1)`
+- **线性组合**：`a𝐯 + b𝐰`（标量a,b缩放向量）
+- **张成空间**：所有可能的线性组合集合
+  - 二维示例：`span(𝐯,𝐰)` 形成平面
+  - 三维示例：添加第三个向量可能扫过全空间
+
+### 线性相关性
+
+| 类型     | 定义                       | 示例          |
+| :------- | :------------------------- | :------------ |
+| 线性相关 | 某向量可被其他向量线性表示 | `𝐮 = 2𝐯 + 3𝐰` |
+| 线性无关 | 无法被其他向量线性表示     | 基向量组      |
+
+> **基的严格定义**：线性无关且能张成全空间的向量集合
+
+------
+
+## 【03】矩阵与线性变换
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 微积分本质
 
