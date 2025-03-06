@@ -381,7 +381,66 @@ https://github.com/3b1b/manim
 
 ![截图-31](C:/Users/WDMX/Desktop/%E6%88%AA%E5%9B%BE-31.png)
 
+## 【09】基变换
 
+### 核心概念
+
+> **隐含假设**：坐标系的默认基底是标准基向量 `i` 和 `j`  
+
+![截图-32](C:/Users/WDMX/Desktop/3b1b%20Algebra/3b1b%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%9B%BE-32.png)
+
+- **基的选择依赖性** - 不同的表示
+  - 向量的空间描述依赖于所选基底  
+
+
+![截图-33](C:/Users/WDMX/Desktop/3b1b%20Algebra/3b1b%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%9B%BE-33.png)
+
+- **坐标系间转化**  
+  - **语言之间的转化 **- 如何在坐标系之间对单个向量的描述进行相互转化
+  - 关键步骤：  
+    1. 原始基 → 新基  
+    2. 应用变换  
+    3. 新基 → 原始基  
+
+![截图-34](C:/Users/WDMX/Desktop/3b1b%20Algebra/3b1b%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%9B%BE-34.png)
+
+![截图-35](C:/Users/WDMX/Desktop/3b1b%20Algebra/3b1b%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%9B%BE-35.png)
+
+![截图-36](C:/Users/WDMX/Desktop/3b1b%20Algebra/3b1b%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%9B%BE-36.png)
+
+- #### **矩阵变换的跨基描述**  
+
+  - **表达式 `A⁻¹MA` 的几何意义**：  
+    - **`M`：原始坐标系中的变换  **
+    - **`A` 和 `A⁻¹`：视角转换工具  **
+
+> **"同一变换在不同基下具有不同矩阵形式，但核心作用不变"**
+
+![截图-37](C:/Users/WDMX/Desktop/3b1b%20Algebra/3b1b%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%9B%BE-37.png)
+
+![截图-38](C:/Users/WDMX/Desktop/3b1b%20Algebra/3b1b%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%9B%BE-38.png)
+
+![截图-39](C:/Users/WDMX/Desktop/3b1b%20Algebra/3b1b%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%9B%BE-39.png)
+
+---
+
+## 【10】特征向量与特征值 - 直观 - 封神的一集
+
+> **"通常而言，对特征的东西感到疑惑，更多的是因为众多预备知识的薄弱基础，而不是在于特征向量   与特征值本身，需要极强的逻辑链来向后学习和证明"**
+>
+> ​                                                                                                              **—————— 3Blue1Brown**
+
+![截图-40](C:/Users/WDMX/Desktop/3b1b%20Algebra/3b1b%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%9B%BE-40.png)
+
+**此时除了对角线和x轴，任何其他向量在变换中都有或多或少的旋转**
+
+![截图-41](C:/Users/WDMX/Desktop/3b1b%20Algebra/3b1b%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE/%E6%88%AA%E5%9B%BE-41.png)
+
+### 直观理解
+
+- **特征向量的定义**  
+  - 在线性变换中**保持方向不变的向量 ** =>  "特征向量"
+  - **特征值**：衡量特征向量在变换中拉伸或压缩比例的因子
 
 
 
