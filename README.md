@@ -609,7 +609,7 @@ https://github.com/3b1b/manim
 
 
 
-#  MathVault - 微积分本质
+#  MathVault - 微积分本质 - Essence of Calculus
 
 ## 一、B站UP主“3Blue1Brown”中国官方账号的《Calculus》系列视频教程
 
